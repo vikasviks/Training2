@@ -1,0 +1,26 @@
+C:\Users\S S INFOTECH\source\repos\Sum_diff_products_LCMs\Sum_diff_products_LCMs\bin\Debug\netcoreapp3.1\Sum_diff_products_LCMs.exe
+C:\Users\S S INFOTECH\source\repos\Sum_diff_products_LCMs\Sum_diff_products_LCMs\bin\Debug\netcoreapp3.1\Sum_diff_products_LCMs.deps.json
+C:\Users\S S INFOTECH\source\repos\Sum_diff_products_LCMs\Sum_diff_products_LCMs\bin\Debug\netcoreapp3.1\Sum_diff_products_LCMs.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\Sum_diff_products_LCMs\Sum_diff_products_LCMs\bin\Debug\netcoreapp3.1\Sum_diff_products_LCMs.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\Sum_diff_products_LCMs\Sum_diff_products_LCMs\bin\Debug\netcoreapp3.1\Sum_diff_products_LCMs.dll
+C:\Users\S S INFOTECH\source\repos\Sum_diff_products_LCMs\Sum_diff_products_LCMs\bin\Debug\netcoreapp3.1\Sum_diff_products_LCMs.pdb
+C:\Users\S S INFOTECH\source\repos\Sum_diff_products_LCMs\Sum_diff_products_LCMs\obj\Debug\netcoreapp3.1\Sum_diff_products_LCMs.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\Sum_diff_products_LCMs\Sum_diff_products_LCMs\obj\Debug\netcoreapp3.1\Sum_diff_products_LCMs.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\Sum_diff_products_LCMs\Sum_diff_products_LCMs\obj\Debug\netcoreapp3.1\Sum_diff_products_LCMs.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\Sum_diff_products_LCMs\Sum_diff_products_LCMs\obj\Debug\netcoreapp3.1\Sum_diff_products_LCMs.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\Sum_diff_products_LCMs\Sum_diff_products_LCMs\obj\Debug\netcoreapp3.1\Sum_diff_products_LCMs.dll
+C:\Users\S S INFOTECH\source\repos\Sum_diff_products_LCMs\Sum_diff_products_LCMs\obj\Debug\netcoreapp3.1\Sum_diff_products_LCMs.pdb
+C:\Users\S S INFOTECH\source\repos\Sum_diff_products_LCMs\Sum_diff_products_LCMs\obj\Debug\netcoreapp3.1\Sum_diff_products_LCMs.genruntimeconfig.cache
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Sum of differences between products and LCMs\Sum_diff_products_LCMs\Sum_diff_products_LCMs\bin\Debug\netcoreapp3.1\Sum_diff_products_LCMs.exe
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Sum of differences between products and LCMs\Sum_diff_products_LCMs\Sum_diff_products_LCMs\bin\Debug\netcoreapp3.1\Sum_diff_products_LCMs.deps.json
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Sum of differences between products and LCMs\Sum_diff_products_LCMs\Sum_diff_products_LCMs\bin\Debug\netcoreapp3.1\Sum_diff_products_LCMs.runtimeconfig.json
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Sum of differences between products and LCMs\Sum_diff_products_LCMs\Sum_diff_products_LCMs\bin\Debug\netcoreapp3.1\Sum_diff_products_LCMs.runtimeconfig.dev.json
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Sum of differences between products and LCMs\Sum_diff_products_LCMs\Sum_diff_products_LCMs\bin\Debug\netcoreapp3.1\Sum_diff_products_LCMs.dll
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Sum of differences between products and LCMs\Sum_diff_products_LCMs\Sum_diff_products_LCMs\bin\Debug\netcoreapp3.1\Sum_diff_products_LCMs.pdb
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Sum of differences between products and LCMs\Sum_diff_products_LCMs\Sum_diff_products_LCMs\obj\Debug\netcoreapp3.1\Sum_diff_products_LCMs.csprojAssemblyReference.cache
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Sum of differences between products and LCMs\Sum_diff_products_LCMs\Sum_diff_products_LCMs\obj\Debug\netcoreapp3.1\Sum_diff_products_LCMs.AssemblyInfoInputs.cache
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Sum of differences between products and LCMs\Sum_diff_products_LCMs\Sum_diff_products_LCMs\obj\Debug\netcoreapp3.1\Sum_diff_products_LCMs.AssemblyInfo.cs
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Sum of differences between products and LCMs\Sum_diff_products_LCMs\Sum_diff_products_LCMs\obj\Debug\netcoreapp3.1\Sum_diff_products_LCMs.csproj.CoreCompileInputs.cache
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Sum of differences between products and LCMs\Sum_diff_products_LCMs\Sum_diff_products_LCMs\obj\Debug\netcoreapp3.1\Sum_diff_products_LCMs.dll
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Sum of differences between products and LCMs\Sum_diff_products_LCMs\Sum_diff_products_LCMs\obj\Debug\netcoreapp3.1\Sum_diff_products_LCMs.pdb
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Sum of differences between products and LCMs\Sum_diff_products_LCMs\Sum_diff_products_LCMs\obj\Debug\netcoreapp3.1\Sum_diff_products_LCMs.genruntimeconfig.cache
