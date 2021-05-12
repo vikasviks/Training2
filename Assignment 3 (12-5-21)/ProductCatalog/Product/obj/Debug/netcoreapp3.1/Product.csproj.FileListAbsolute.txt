@@ -1,0 +1,48 @@
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\Product\bin\Debug\netcoreapp3.1\Product.exe
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\Product\bin\Debug\netcoreapp3.1\Product.deps.json
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.json
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.dev.json
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\Product\bin\Debug\netcoreapp3.1\Product.dll
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\Product\bin\Debug\netcoreapp3.1\Product.pdb
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\Product\bin\Debug\netcoreapp3.1\ProductData.dll
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\Product\bin\Debug\netcoreapp3.1\ProductData.pdb
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.csprojAssemblyReference.cache
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfoInputs.cache
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfo.cs
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.csproj.CopyComplete
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.dll
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.pdb
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.genruntimeconfig.cache
+C:\training\Training From Home\Product catalog csv A\Product catalog san\ProductCatalog\Product\bin\Debug\netcoreapp3.1\Product.exe
+C:\training\Training From Home\Product catalog csv A\Product catalog san\ProductCatalog\Product\bin\Debug\netcoreapp3.1\Product.deps.json
+C:\training\Training From Home\Product catalog csv A\Product catalog san\ProductCatalog\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.json
+C:\training\Training From Home\Product catalog csv A\Product catalog san\ProductCatalog\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.dev.json
+C:\training\Training From Home\Product catalog csv A\Product catalog san\ProductCatalog\Product\bin\Debug\netcoreapp3.1\Product.dll
+C:\training\Training From Home\Product catalog csv A\Product catalog san\ProductCatalog\Product\bin\Debug\netcoreapp3.1\Product.pdb
+C:\training\Training From Home\Product catalog csv A\Product catalog san\ProductCatalog\Product\bin\Debug\netcoreapp3.1\ProductData.dll
+C:\training\Training From Home\Product catalog csv A\Product catalog san\ProductCatalog\Product\bin\Debug\netcoreapp3.1\ProductData.pdb
+C:\training\Training From Home\Product catalog csv A\Product catalog san\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.csprojAssemblyReference.cache
+C:\training\Training From Home\Product catalog csv A\Product catalog san\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfoInputs.cache
+C:\training\Training From Home\Product catalog csv A\Product catalog san\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfo.cs
+C:\training\Training From Home\Product catalog csv A\Product catalog san\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.csproj.CoreCompileInputs.cache
+C:\training\Training From Home\Product catalog csv A\Product catalog san\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.csproj.CopyComplete
+C:\training\Training From Home\Product catalog csv A\Product catalog san\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.dll
+C:\training\Training From Home\Product catalog csv A\Product catalog san\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.pdb
+C:\training\Training From Home\Product catalog csv A\Product catalog san\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.genruntimeconfig.cache
+C:\training\Training From Home\Second Phase (sandip sir)\Assignment 3 (12-5-21)\ProductCatalog\Product\bin\Debug\netcoreapp3.1\Product.exe
+C:\training\Training From Home\Second Phase (sandip sir)\Assignment 3 (12-5-21)\ProductCatalog\Product\bin\Debug\netcoreapp3.1\Product.deps.json
+C:\training\Training From Home\Second Phase (sandip sir)\Assignment 3 (12-5-21)\ProductCatalog\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.json
+C:\training\Training From Home\Second Phase (sandip sir)\Assignment 3 (12-5-21)\ProductCatalog\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.dev.json
+C:\training\Training From Home\Second Phase (sandip sir)\Assignment 3 (12-5-21)\ProductCatalog\Product\bin\Debug\netcoreapp3.1\Product.dll
+C:\training\Training From Home\Second Phase (sandip sir)\Assignment 3 (12-5-21)\ProductCatalog\Product\bin\Debug\netcoreapp3.1\Product.pdb
+C:\training\Training From Home\Second Phase (sandip sir)\Assignment 3 (12-5-21)\ProductCatalog\Product\bin\Debug\netcoreapp3.1\ProductData.dll
+C:\training\Training From Home\Second Phase (sandip sir)\Assignment 3 (12-5-21)\ProductCatalog\Product\bin\Debug\netcoreapp3.1\ProductData.pdb
+C:\training\Training From Home\Second Phase (sandip sir)\Assignment 3 (12-5-21)\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.csprojAssemblyReference.cache
+C:\training\Training From Home\Second Phase (sandip sir)\Assignment 3 (12-5-21)\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfoInputs.cache
+C:\training\Training From Home\Second Phase (sandip sir)\Assignment 3 (12-5-21)\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfo.cs
+C:\training\Training From Home\Second Phase (sandip sir)\Assignment 3 (12-5-21)\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.csproj.CoreCompileInputs.cache
+C:\training\Training From Home\Second Phase (sandip sir)\Assignment 3 (12-5-21)\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.csproj.CopyComplete
+C:\training\Training From Home\Second Phase (sandip sir)\Assignment 3 (12-5-21)\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.dll
+C:\training\Training From Home\Second Phase (sandip sir)\Assignment 3 (12-5-21)\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.pdb
+C:\training\Training From Home\Second Phase (sandip sir)\Assignment 3 (12-5-21)\ProductCatalog\Product\obj\Debug\netcoreapp3.1\Product.genruntimeconfig.cache
