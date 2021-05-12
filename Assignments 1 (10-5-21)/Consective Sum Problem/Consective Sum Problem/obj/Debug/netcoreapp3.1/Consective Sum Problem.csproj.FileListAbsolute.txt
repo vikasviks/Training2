@@ -1,0 +1,26 @@
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\bin\Debug\netcoreapp3.1\Consective Sum Problem.exe
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\bin\Debug\netcoreapp3.1\Consective Sum Problem.deps.json
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\bin\Debug\netcoreapp3.1\Consective Sum Problem.runtimeconfig.json
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\bin\Debug\netcoreapp3.1\Consective Sum Problem.runtimeconfig.dev.json
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\bin\Debug\netcoreapp3.1\Consective Sum Problem.dll
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\bin\Debug\netcoreapp3.1\Consective Sum Problem.pdb
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.csprojAssemblyReference.cache
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.AssemblyInfoInputs.cache
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.AssemblyInfo.cs
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.dll
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.pdb
+C:\Users\s s infotech\Sandeep\Revision\Revision Day1\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.genruntimeconfig.cache
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Consective Sum Problem\Consective Sum Problem\bin\Debug\netcoreapp3.1\Consective Sum Problem.exe
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Consective Sum Problem\Consective Sum Problem\bin\Debug\netcoreapp3.1\Consective Sum Problem.deps.json
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Consective Sum Problem\Consective Sum Problem\bin\Debug\netcoreapp3.1\Consective Sum Problem.runtimeconfig.json
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Consective Sum Problem\Consective Sum Problem\bin\Debug\netcoreapp3.1\Consective Sum Problem.runtimeconfig.dev.json
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Consective Sum Problem\Consective Sum Problem\bin\Debug\netcoreapp3.1\Consective Sum Problem.dll
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Consective Sum Problem\Consective Sum Problem\bin\Debug\netcoreapp3.1\Consective Sum Problem.pdb
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.csprojAssemblyReference.cache
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.AssemblyInfoInputs.cache
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.AssemblyInfo.cs
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.csproj.CoreCompileInputs.cache
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.dll
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.pdb
+C:\training\Training From Home\Second Phase (sandip sir)\Assignments 1 (10-5-21)\Consective Sum Problem\Consective Sum Problem\obj\Debug\netcoreapp3.1\Consective Sum Problem.genruntimeconfig.cache
