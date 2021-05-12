@@ -1,0 +1,13 @@
+C:\Users\S S INFOTECH\source\repos\TOReadFile\TOReadFile\bin\Debug\netcoreapp3.1\TOReadFile.exe
+C:\Users\S S INFOTECH\source\repos\TOReadFile\TOReadFile\bin\Debug\netcoreapp3.1\TOReadFile.deps.json
+C:\Users\S S INFOTECH\source\repos\TOReadFile\TOReadFile\bin\Debug\netcoreapp3.1\TOReadFile.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\TOReadFile\TOReadFile\bin\Debug\netcoreapp3.1\TOReadFile.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\TOReadFile\TOReadFile\bin\Debug\netcoreapp3.1\TOReadFile.dll
+C:\Users\S S INFOTECH\source\repos\TOReadFile\TOReadFile\bin\Debug\netcoreapp3.1\TOReadFile.pdb
+C:\Users\S S INFOTECH\source\repos\TOReadFile\TOReadFile\obj\Debug\netcoreapp3.1\TOReadFile.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\TOReadFile\TOReadFile\obj\Debug\netcoreapp3.1\TOReadFile.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\TOReadFile\TOReadFile\obj\Debug\netcoreapp3.1\TOReadFile.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\TOReadFile\TOReadFile\obj\Debug\netcoreapp3.1\TOReadFile.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\TOReadFile\TOReadFile\obj\Debug\netcoreapp3.1\TOReadFile.dll
+C:\Users\S S INFOTECH\source\repos\TOReadFile\TOReadFile\obj\Debug\netcoreapp3.1\TOReadFile.pdb
+C:\Users\S S INFOTECH\source\repos\TOReadFile\TOReadFile\obj\Debug\netcoreapp3.1\TOReadFile.genruntimeconfig.cache
