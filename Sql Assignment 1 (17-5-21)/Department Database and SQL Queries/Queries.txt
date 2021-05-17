@@ -1,0 +1,207 @@
+------------------------------Data of staff
+ 	SELECT * FROM staff;
+	
+  
+------------------------------Data of product	
+	SELECT * FROM product;
+	
+
+------------------------------Data of product_categories
+
+	SELECT * FROM product_categories;
+	
+	
+--------------------------------Data of Inventory
+
+	SELECT * FROM inventory;
+	
+	
+-------------------------------Data of supplier
+
+	SELECT * FROM supplier;
+	
+
+------------------------------Data of order_detail
+
+	SELECT * FROM order_detail;
+	
+	
+	
+-------------------------------Assignment 2-------------------------------------------------------
+
+--------------1 Query staff using name or phone number or both
+
+	--using name
+SELECT * FROM staff
+WHERE staff_name = 'Vikas Kumar';
+
+	--using Phone number
+SELECT * FROM staff
+WHERE  staff_phone_number='1234567890';
+
+	--using name or phone number or both
+SELECT * FROM staff
+WHERE staff_name = 'Vikas Kumar'
+OR staff_phone_number='0987654321';
+	
+
+
+-------------------------2 Query staff using their Roles
+
+SELECT * FROM staff
+WHERE staff_role = 'Billing';
+
+
+
+------------------------3 Query Product based on 
+
+	--a)- On name basis
+
+	SELECT * FROM product
+	WHERE product_name='Laptop';
+	
+	--b)- On the basis of Category
+	
+	SELECT * FROM product
+	WHERE category_id=1;
+
+	--c)- On the basis of stock
+
+	SELECT pro.product_name, i.instock FROM product pro
+	INNER JOIN inventory i USING(product_id)
+	WHERE i.instock = true;
+
+	--d)- On the Basis of Selling Price--
+	
+	SELECT * FROM product
+	WHERE sellingprice<50;
+	
+
+				--selling Price equal to
+
+	SELECT * FROM product
+	WHERE sellingprice=52;
+	
+
+				--selling price greater than(>)
+
+	SELECT * FROM product
+	WHERE sellingprice>50;
+
+
+---------------------4 number of product outofstock
+
+SELECT pro.product_name,COUNT(pro.product_id) As outofstock FROM product pro
+JOIN inventory i USING(product_id)
+WHERE i.instock = false
+group by pro.product_name;
+
+
+----------------------5 number of product within a category
+
+SELECT COUNT(pro.product_name) AS total_product, pc.category_name
+FROM product pro
+JOIN product_categories pc
+USING (category_id)
+group by pc.category_name;
+	
+	
+--6 Product-Categories listed in descending with highest number of products to the lowest number of products
+
+SELECT pc.category_name, COUNT(p.product_name) AS total_product
+FROM product p
+JOIN product_categories pc
+USING (category_id)
+GROUP BY pc.category_name
+ORDER BY total_product ASC;
+	
+	
+---------------------------7 List of Suppliers -
+
+	-- a. Name
+
+	SELECT * FROM supplier
+	WHERE suppiler_name = 'Varun';
+
+	-- b. Phone
+	
+	SELECT * FROM supplier
+	WHERE supplier_phone_number = '1223456789';
+
+
+	-- d. City
+	
+	SELECT * FROM supplier
+	WHERE supplier_city = 'Delhi';
+	
+	
+-------------------------------8  List of Product with different suppliers,
+--with the recent date of supply and the amount supplied on the most recent occasion
+
+ SELECT ord.order_id, pro.product_name, s.suppiler_name, cus.customer_name
+ FROM order_detail ord
+ JOIN product pro USING(product_id)
+ JOIN customer cus USING(customer_id)
+ JOIN supplier s ON s.supplier_id=ord.suppiler_id
+ ORDER BY ord.order_id DESC;
+ 	
+
+--a on the basis of product name	
+
+select * from product
+
+ SELECT ord.order_id, pro.product_name, s.suppiler_name, cus.customer_name FROM order_detail ord
+ JOIN product pro USING(product_id)
+ JOIN customer cus USING(customer_id)
+ JOIN supplier s ON s.supplier_id=ord.suppiler_id
+ WHERE pro.product_name = 'Suger'
+ ORDER BY ord.order_id DESC;	
+ 
+ 
+--b on the basis of suppiler name 
+
+select * from supplier
+ SELECT ord.order_id, pro.product_name, s.suppiler_name, cus.customer_name FROM order_detail ord
+ JOIN product pro USING(product_id)
+ JOIN customer cus USING(customer_id)
+ JOIN supplier s ON s.supplier_id=ord.suppiler_id
+ WHERE  s.suppiler_name ='Emma scott'
+ ORDER BY ord.order_id DESC;	
+ 
+ 
+ --d supplied after a particular date
+ 
+  SELECT  ord.order_id, pro.product_name, s.suppiler_name, cus.customer_name FROM order_detail ord
+ JOIN product pro USING(product_id)
+ JOIN customer cus USING(customer_id)
+ JOIN supplier s ON s.supplier_id=ord.suppiler_id
+ WHERE ord.date_of_order > '2021-05-16'
+ ORDER BY ord.order_id DESC;	
+ 
+ 
+ --e supplied before a particular date
+ select * from order_detail
+ 
+  SELECT  ord.order_id, pro.product_name, s.suppiler_name, cus.customer_name FROM order_detail ord
+ JOIN product pro USING(product_id)
+ JOIN customer cus USING(customer_id)
+ JOIN supplier s ON s.supplier_id=ord.suppiler_id
+ WHERE ord.date_of_order < '2021-05-16'
+ ORDER BY ord.order_id DESC;	
+ 
+ 
+ --Product has inventory more than or less than a given qty
+ 
+ SELECT  ord.order_id, pro.product_name,inv.product_quantity FROM order_detail ord
+ JOIN product pro USING(product_id)
+ JOIN customer cus USING(customer_id)
+ JOIN inventory inv ON inv.product_id = pro.product_id
+ JOIN supplier s ON s.supplier_id=ord.suppiler_id
+ WHERE inv.product_quantity <90
+ ORDER BY ord.order_id DESC;
+ 
+ 
+---------------------------------------------End------------------------------------------------------
+ 
+ 
+	

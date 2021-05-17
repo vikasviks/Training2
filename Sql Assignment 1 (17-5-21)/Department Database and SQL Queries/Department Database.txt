@@ -1,0 +1,205 @@
+-- Database: Department_data_assign1
+
+-- DROP DATABASE "Department_data_assign1";
+
+CREATE DATABASE "Department_data_assign1"
+    WITH 
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    LC_COLLATE = 'English_United States.1252'
+    LC_CTYPE = 'English_United States.1252'
+    TABLESPACE = pg_default
+    CONNECTION LIMIT = -1;
+	
+	
+/*
+    -----------Tables
+   
+    1-staff
+    2-product
+    3-product_category
+    4-supplier
+    5-inventory
+	6-order_detail
+	7-customer
+   
+*/
+
+
+----------------------------------------------Start---------------------------------------------------
+
+--------------------------------------- staff table	
+
+	CREATE TABLE staff(
+		staff_id SERIAL PRIMARY KEY,
+		staff_name VARCHAR(50),
+		staff_role VARCHAR(40),
+		staff_phone_number CHAR(10)
+	);
+
+
+
+---------------------------------------product categories table	
+	
+	CREATE TABLE product_categories(
+		category_id SERIAL PRIMARY KEY,
+		category_name VARCHAR(50)
+	);
+
+
+
+-------------------------product table with reference of categories_id table
+	
+	CREATE TABLE product(
+		product_id SERIAL PRIMARY KEY,
+		product_name VARCHAR(50),
+		manufactror_name VARCHAR(40),
+		costprice NUMERIC(10,2),
+		sellingprice NUMERIC(10,2),
+		category_id INT REFERENCES product_categories(category_id)
+	);
+	
+	
+	
+-------------------inventory table references with product table
+
+CREATE TABLE inventory(
+	inventory_product_id SERIAL PRIMARY KEY,
+	product_quantity INT,
+	instock BOOLEAN,
+	product_id INT references product(product_id)
+);
+
+
+
+----------------------------------supplier table
+
+CREATE TABLE supplier(
+	supplier_id SERIAL PRIMARY KEY,
+	suppiler_name VARCHAR(50),
+	supplier_phone_number CHAR(10),
+	supplier_city VARCHAR(50)
+);
+
+
+
+-----------------------------------costumer table
+
+CREATE TABLE customer(
+	customer_id SERIAL PRIMARY KEY,
+	customer_name VARCHAR(50),
+	customer_email VARCHAR(50) UNIQUE,
+	customer_phone_number CHAR(10) 
+);
+
+
+
+-----------------------order_detail table reference with suppiler, Customer and product table
+
+CREATE TABLE order_detail(
+	order_id SERIAL PRIMARY KEY,
+	date_of_order DATE ,
+	order_city VARCHAR(40),
+	suppiler_id INT REFERENCES supplier(supplier_id),
+	product_id INT REFERENCES product(product_id),
+	customer_id INT REFERENCES customer(customer_id)
+);
+
+
+
+
+
+
+------------------------------------------Inserting Values in tables--------------------------
+
+-----------------------Inserting values into staff
+
+	INSERT INTO staff(staff_name,staff_role,staff_phone_number)
+	VALUES('Vikas Kumar','Manager','1234567890'),
+	('Nishu Kumar','Billing','0987654321'),
+	('Vik','Counter','1231231234'),
+	('Nish','Packing','9999777700'),
+	('david','Security','4444555512');
+	
+	SELECT * from staff;
+
+
+
+----------------------------Inserting values into product_categories table
+	
+	INSERT INTO product_categories(category_name)
+	Values ('Groceries'),
+	('Dairy'),
+	('Food'),
+	('Appliances'),
+	('Cosmetics');
+	
+	select * from product_categories;
+	
+	
+	
+--------------------Inserting into product
+
+	INSERT INTO product(product_name,manufactror_name,costprice,sellingprice,category_id)
+	VALUES ('Suger','ModiMill',40,42,1),
+	('Milk','Amul',50,52,2),
+	('Chips','Lays',18,20,3),
+	('Laptop','Acer',350,380,4),
+	('Lipstick','Lakmay',90,130,5);
+	
+	select * from product;
+	
+	
+	
+-----------------------Inserting into inventory
+
+	INSERT INTO inventory(product_quantity, instock,product_id)
+	Values (25,true,3),
+	(90,true,5),
+	(60,true,4),
+	(10,true,1),
+	(70,false,2);
+	
+	SELECT * from inventory;
+	
+	
+
+----------------------------Inserting into supppiler
+
+INSERT INTO supplier(suppiler_name, supplier_phone_number,supplier_city)
+VALUES ('Varun', '1234567889','Ghaziabad'),
+('Deepak Singh', '1123456789','Raj nagar'),
+('Mohit Sharma', '1223456789','Noida'),
+('Emma scott', '9876543213','Delhi'),
+('david Smith','7896547890','Modi nagar');
+
+SELECT * FROM supplier;
+	
+	
+	
+------------------------------Inserting into customer
+
+INSERT INTO customer(customer_name, customer_email, customer_phone_number)
+VALUES ('Vikas Sharma', 'vikas@gmail.com', '6754322467'),
+('Rajnish kumar', 'arrajnish@gmail.com', '8765409876'),
+('nik Kumar', 'nik@gmail.com', '1234567897'),
+('Deepak Sharma', 'deepak@gmail.com', '9876567876'),
+('Subodh Singh', 'subodh@gmail.com', '3212343256');
+
+SELECT * FROM customer;
+
+
+
+-------------------------------Inserting into order_details
+
+INSERT INTO order_detail(date_of_order,order_city,suppiler_id, product_id, customer_id)
+VALUES('2021-06-13','Ghaziabad',2,1,3),
+('2021-05-13','Raj nagar',1,3,4),
+('2021-04-13', 'Noida',4,5,2),
+('2021-03-13','Modi nagar',1,3,4),
+('2021-02-13','Noida',1,3,4);
+	
+SELECT * FROM order_detail;
+
+
+-----------------------------------------End-----------------------------------------------------------
