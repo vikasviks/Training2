@@ -1,0 +1,84 @@
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\ProductCatalogAPI.exe
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\ProductCatalogAPI.deps.json
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\ProductCatalogAPI.runtimeconfig.json
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\ProductCatalogAPI.runtimeconfig.dev.json
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\ProductCatalogAPI.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\ProductCatalogAPI.pdb
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.csprojAssemblyReference.cache
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.AssemblyInfoInputs.cache
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.AssemblyInfo.cs
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductCatalogAPI.StaticWebAssets.Manifest.cache
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductCatalogAPI.StaticWebAssets.xml
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductCatalogAPI.styles.css
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.RazorTargetAssemblyInfo.cache
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.csproj.CopyComplete
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.dll
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.pdb
+C:\Users\s s infotech\source\repos\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.genruntimeconfig.cache
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\ProductCatalogAPI.exe
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\ProductCatalogAPI.deps.json
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\ProductCatalogAPI.runtimeconfig.json
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\ProductCatalogAPI.runtimeconfig.dev.json
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\ProductCatalogAPI.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\ProductCatalogAPI.pdb
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.csprojAssemblyReference.cache
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.AssemblyInfoInputs.cache
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.AssemblyInfo.cs
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.csproj.CoreCompileInputs.cache
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductCatalogAPI.StaticWebAssets.Manifest.cache
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductCatalogAPI.StaticWebAssets.xml
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductCatalogAPI.styles.css
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.RazorTargetAssemblyInfo.cache
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.csproj.CopyComplete
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.dll
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.pdb
+C:\training\Training From Home\Second Phase (sandip sir)\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\netcoreapp3.1\ProductCatalogAPI.genruntimeconfig.cache
