@@ -1,0 +1,55 @@
+<div class="container">
+    <div>
+        <h5>Delete Product</h5>
+        <hr>
+    </div>
+
+    <div class="input-group myform">
+        <select class="custom-select" id="inputGroupSelect04" [formControl]='selectidControl'>
+            <option selected value="0">Select ID</option>
+            <option *ngFor="let p of products$ | async" [value]="p.id">{{p.id}}</option>
+        </select>
+        <div class="input-group-append">
+            <button class="btn btn-primary" type="button" (click)='showDetails()'>Select ID</button>
+        </div>
+    </div>
+    <br>
+
+    <form [formGroup]="deleteform" class="myform">
+
+        <div class="input-group mb-3">
+            <input type="text" formControlName="title" class="form-control" readonly>
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="number" formControlName="price" class="form-control" readonly>
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="number" formControlName="quantity" class="form-control" readonly>
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="text" formControlName="color" class="form-control" readonly>
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="date" formControlName="expirydate" class="form-control" readonly>
+        </div>
+
+        <label>Status:</label><br>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" formControlName="instock" type="radio" [value]="true" onclick="javascript: return false;">
+            <label class="form-check-label" for="inlineRadio1">In Stock</label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" formControlName="instock" type="radio" [value]="false" onclick="javascript: return false;">
+            <label class="form-check-label" for="inlineRadio2">Out of Stock</label>
+        </div>
+
+        <br><br>
+        <div class="btn-group mr-2">
+            <button type="button" class="btn btn-danger inline" (click)="delete()">Delete</button>
+        </div>
+    </form>
+</div>

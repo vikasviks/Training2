@@ -1,0 +1,40 @@
+<br>
+<br>
+
+<div style="margin-left: 650px; margin-top: 30px;"><span>
+
+</span></div>
+
+
+<div style="justify-content: center; margin-bottom: 10px;" class="nav nav-tabs" >
+<button class="nav-link" type="button" (click)='showTable = 1;' style="margin-right: 15px;">By Async</button>
+<button class="nav-link" type="button" (click)='showTable = 2;' style="margin-right: 15px;">By Subscribe</button>
+<button class="nav-link" type="button" (click)='showTable = 3;'style="margin-right: 15px;">By Angular Mat-table </button>
+</div>
+
+
+
+<div class="row">
+<ng-container *ngIf="showTable==1; then htmlTable "></ng-container>
+<ng-template #htmlTable>
+
+    
+        <app-list-product-with-async [myProduct$]='product$'></app-list-product-with-async>
+        </ng-template>
+
+<ng-container *ngIf="showTable==2; then angularTable"></ng-container>
+<ng-template #angularTable>
+
+    
+        <app-list-product-with-subscribe [myProduct$]='product$'></app-list-product-with-subscribe>
+
+</ng-template>
+
+<ng-container *ngIf="showTable==3; then matTable"></ng-container>
+<ng-template #matTable>
+    
+        <app-list-with-material [myProduct$]='product$'></app-list-with-material>
+  
+</ng-template>
+
+</div>

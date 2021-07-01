@@ -1,0 +1,38 @@
+<body>
+<h1>
+  Todoapi Demo
+</h1>
+
+	<div class="container">
+		<h2>TODO LIST</h2>
+		<h3>Add Item</h3>
+		<p>
+			<input id="new-task" type="text"><button>Add</button>
+		</p>
+
+		<h3>Todo</h3>
+		<!-- <ol id="incomplete-tasks"> -->
+
+      <table border="1">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>isComplete</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let p of product">
+            <td>{{p.name}}</td>
+            <td>{{p.isComplete}}</td>
+          </tr>
+        </tbody>
+      </table>
+
+			<!-- <li><label>Book 1</label><input type="text"><button class="edit">Edit</button><button class="delete">Delete</button></li>
+			<li><label>Book 2</label><input type="text" value="Go Shopping"><button class="edit">Edit</button><button class="delete">Delete</button></li>
+		</ol> -->
+	</div>
+  <br>
+  <br>
+
+</body>

@@ -1,0 +1,58 @@
+<!-- <p class="p">edit-product works!</p> -->
+<br>
+<div class="container">
+    <div>
+        <h5>Edit Product</h5>
+        <hr>
+    </div>
+
+    <div class="input-group myform">
+        <select class="custom-select" [formControl]='selectidControl'>
+            <option selected value="0">Select ID</option>
+            <option *ngFor="let p of products$ | async" [value]="p.id">{{p.id}}</option>
+        </select>
+        <div class="input-group-append">
+            <button class="btn btn-primary" type="button" (click)='showDetails()'>Select ID</button>
+        </div>
+    </div>
+    <br>
+
+    <form  [formGroup]="editform" class="myform">
+
+        <div class="input-group mb-3">
+            <input type="text" formControlName="title" class="form-control" placeholder="Enter Title">
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="number" formControlName="price" class="form-control" placeholder="Enter Price">
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="number" formControlName="quantity" class="form-control" placeholder="Enter Quantity">
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="text" formControlName="color" class="form-control" placeholder="Enter Color">
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="text" formControlName="expirydate" class="form-control" placeholder="Enter ExpiryDate in DD-MM-YYY">
+        </div>
+
+        <label>Status of Product:</label><br>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" formControlName="instock" type="radio" [value]="true">
+            <label class="form-check-label" for="inlineRadio1">In Stock</label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" formControlName="instock" type="radio" [value]="false">
+            <label class="form-check-label" for="inlineRadio2">Out of Stock</label>
+        </div>
+        <br>
+        <br>
+        
+        <div class="btn-group mr-3">
+            <button type="button" [disabled]="editform.invalid" class="btn btn-success inline" (click)="update()">Update</button>
+        </div>
+    </form>
+</div>

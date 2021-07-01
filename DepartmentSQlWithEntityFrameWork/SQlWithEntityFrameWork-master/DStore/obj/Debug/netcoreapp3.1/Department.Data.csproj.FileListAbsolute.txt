@@ -1,0 +1,12 @@
+C:\training\Training From Home\DepartmentSQlWithEntityFrameWork\SQlWithEntityFrameWork-master\DStore\obj\Debug\netcoreapp3.1\Department.Data.AssemblyInfoInputs.cache
+C:\training\Training From Home\DepartmentSQlWithEntityFrameWork\SQlWithEntityFrameWork-master\DStore\obj\Debug\netcoreapp3.1\Department.Data.AssemblyInfo.cs
+C:\training\Training From Home\DepartmentSQlWithEntityFrameWork\SQlWithEntityFrameWork-master\DStore\obj\Debug\netcoreapp3.1\Department.Data.csproj.CoreCompileInputs.cache
+C:\training\Training From Home\DepartmentSQlWithEntityFrameWork\SQlWithEntityFrameWork-master\DStore\bin\Debug\netcoreapp3.1\Department.Data.deps.json
+C:\training\Training From Home\DepartmentSQlWithEntityFrameWork\SQlWithEntityFrameWork-master\DStore\bin\Debug\netcoreapp3.1\Department.Data.runtimeconfig.json
+C:\training\Training From Home\DepartmentSQlWithEntityFrameWork\SQlWithEntityFrameWork-master\DStore\bin\Debug\netcoreapp3.1\Department.Data.runtimeconfig.dev.json
+C:\training\Training From Home\DepartmentSQlWithEntityFrameWork\SQlWithEntityFrameWork-master\DStore\bin\Debug\netcoreapp3.1\Department.Data.dll
+C:\training\Training From Home\DepartmentSQlWithEntityFrameWork\SQlWithEntityFrameWork-master\DStore\bin\Debug\netcoreapp3.1\Department.Data.pdb
+C:\training\Training From Home\DepartmentSQlWithEntityFrameWork\SQlWithEntityFrameWork-master\DStore\obj\Debug\netcoreapp3.1\Department.Data.dll
+C:\training\Training From Home\DepartmentSQlWithEntityFrameWork\SQlWithEntityFrameWork-master\DStore\obj\Debug\netcoreapp3.1\Department.Data.pdb
+C:\training\Training From Home\DepartmentSQlWithEntityFrameWork\SQlWithEntityFrameWork-master\DStore\obj\Debug\netcoreapp3.1\Department.Data.genruntimeconfig.cache
+C:\training\Training From Home\DepartmentSQlWithEntityFrameWork\SQlWithEntityFrameWork-master\DStore\obj\Debug\netcoreapp3.1\Department.Data.csprojAssemblyReference.cache

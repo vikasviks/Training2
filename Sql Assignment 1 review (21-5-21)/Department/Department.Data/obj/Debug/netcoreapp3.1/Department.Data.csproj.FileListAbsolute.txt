@@ -1,0 +1,8 @@
+C:\Users\S S INFOTECH\source\repos\Department\Department.Data\obj\Debug\netcoreapp3.1\Department.Data.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\Department\Department.Data\obj\Debug\netcoreapp3.1\Department.Data.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\Department\Department.Data\obj\Debug\netcoreapp3.1\Department.Data.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\Department\Department.Data\obj\Debug\netcoreapp3.1\Department.Data.csproj.CoreCompileInputs.cache
+C:\training\Training From Home\Sql Assignment 1 review (21-5-21)\Department\Department.Data\obj\Debug\netcoreapp3.1\Department.Data.csprojAssemblyReference.cache
+C:\training\Training From Home\Sql Assignment 1 review (21-5-21)\Department\Department.Data\obj\Debug\netcoreapp3.1\Department.Data.AssemblyInfoInputs.cache
+C:\training\Training From Home\Sql Assignment 1 review (21-5-21)\Department\Department.Data\obj\Debug\netcoreapp3.1\Department.Data.AssemblyInfo.cs
+C:\training\Training From Home\Sql Assignment 1 review (21-5-21)\Department\Department.Data\obj\Debug\netcoreapp3.1\Department.Data.csproj.CoreCompileInputs.cache

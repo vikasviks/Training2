@@ -1,0 +1,32 @@
+.home{
+    position:absolute;
+    height: 50px;
+    width: 50px;
+    left: -40px;
+    top: 60px;
+}
+.add{
+    position:absolute;
+    height: 50px;
+    width: 50px;
+    left: -40px;
+    top: 130px;
+}
+.delete{
+    position:absolute;
+    height: 50px;
+    width: 50px;
+    left: -40px;
+    top: 200px;
+}
+.update{
+    position:absolute;
+    height: 50px;
+    width: 50px;
+    left: -40px;
+    top: 270px;
+}
+.btn:hover{
+    transition: 0.3s;
+    left: -5px;
+}
